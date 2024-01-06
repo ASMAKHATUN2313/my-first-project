@@ -1,0 +1,66 @@
+.banner {
+
+/* font-family: Work Sans; */
+/* font-size: 65px; */
+/* font-style: normal; */
+/* font-weight: 700; */
+/* line-height: normal; */
+/* background: url(<path-to-image>), lightgray 50% / cover no-repeat; */
+background-image:url('../new-year-new-me-main/images/banner/banner3.png') ; */
+background-color:lightgray 50% ;
+text-align: right;
+background-repeat: no-repeat;
+padding-top: 216px;
+padding-left:1000px ;
+padding-right:230px ;
+padding-bottom:300px ;
+}
+.banner-title , .banner-description {
+    color: #FFF;
+    text-align: right;
+
+    
+
+}
+
+.banner-btn{
+    color: #005FAC;
+
+text-align: right;
+font-size: 20px;
+font-weight: 600;
+width: 160px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 5px;
+background: #FFF;
+border: #FFF;
+
+
+}
+.section1{
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    margin:0 200px;
+    
+    
+}
+    
+ .text{ 
+
+    padding-top:400px ;
+   
+}
+.text-decoretion ,.list-style{
+    color: #444343;
+}
+ .image{ 
+    padding-left:50px ;
+    padding-top: 150px;
+ 
+}
+article{
+    display: block 800px;
+
+}
